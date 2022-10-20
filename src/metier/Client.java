@@ -31,6 +31,7 @@ public class Client
 	
 	public void setNom(String nom)
 	{
+		System.out.print();
 	}
 	
 	/**
